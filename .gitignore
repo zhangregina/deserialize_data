@@ -1,3 +1,5 @@
 task
 profiles.json
 venv
+.idea
+__pycache__
